@@ -5,7 +5,7 @@ This project is an analysis of the following dataset : https://www.kaggle.com/pr
 ## Instructions to work on this repository
 
 - if this is the first time you work on this repository, clone it running the following command on your working directory :
-    + *git clone https://github.com/lucaspreel/FID-project.git*
+    + *git clone https://github.com/Group-FID-project/FID-project.git*
 
 - pull the project to be sure you have the final version of the code using the command *git pull* on your working directory
 
